@@ -20,4 +20,6 @@ Welcome to your first day at... Dunder Mifflin! Your job is to make sure the com
 function!
 
 ## Resources
-- [React: Prop Validation](https://facebook.github.io/react/docs/reusable-components.html#prop-validation)
+- [React: Prop Validation](https://facebook.github.io/react/docs/typechecking-with-proptypes.html)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/react-prop-types-lab'>propTypes Lab</a> on Learn.co and start learning to code for free.</p>
